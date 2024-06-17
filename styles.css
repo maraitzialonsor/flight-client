@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    }
+.column {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 45%;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+.column h2 {
+    text-align: center;
+}
+.weather-info {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+.weather-info li {
+    margin: 10px 0;
+}
+.flight-form{
+    text-align: ce;
+}
